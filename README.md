@@ -1,6 +1,8 @@
 # Important-Links
 
-- https://www.sololearn.com/learn/courses/coding-foundationshttps://www.coursera.org/learn/foundations-use
+- https://www.sololearn.com/learn/courses/coding-foundations
+
+- https://www.coursera.org/learn/foundations-use
 
 - https://developer.android.com/courses/android-basics-compose/courser-experience-design 
 
