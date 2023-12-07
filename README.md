@@ -14,3 +14,5 @@
 - https://www.quora.com/How-do-you-be-an-expert-software-engineer
 - https://www.reddit.com/r/datascience/comments/u8y9wa/got_contacted_by_a_google_recruiter_what_does_it/
 - https://www.edx.org/learn/computer-programming/raspberry-pi-foundation-object-oriented-programming-in-python-create-your-own-adventure-game
+- https://mylearn.oracle.com/ou/learning-path/java-explorer/79726
+- https://mylearn.oracle.com/ou/learning-path/mysql-explorer/79674
