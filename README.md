@@ -16,3 +16,4 @@
 - https://www.edx.org/learn/computer-programming/raspberry-pi-foundation-object-oriented-programming-in-python-create-your-own-adventure-game
 - https://mylearn.oracle.com/ou/learning-path/java-explorer/79726
 - https://mylearn.oracle.com/ou/learning-path/mysql-explorer/79674
+- https://io.google/2023/program/?q=workshop,codelab,learning-pathway,demo
