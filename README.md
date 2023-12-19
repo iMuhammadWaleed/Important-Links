@@ -17,3 +17,4 @@
 - https://mylearn.oracle.com/ou/learning-path/java-explorer/79726
 - https://mylearn.oracle.com/ou/learning-path/mysql-explorer/79674
 - https://io.google/2023/program/?q=workshop,codelab,learning-pathway,demo
+- https://learn.saylor.org/course/CS401
