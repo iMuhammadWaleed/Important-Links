@@ -19,3 +19,4 @@
 - https://io.google/2023/program/?q=workshop,codelab,learning-pathway,demo
 - https://learn.saylor.org/course/CS401
 - https://quip.com/ubNmAMnGbFGO --- Salesforce Dev Admin Roadmap
+- https://www.reddit.com/r/devops/comments/13cih85/how_to_become_devops_engineer_from_scratch/?rdt=45672 
