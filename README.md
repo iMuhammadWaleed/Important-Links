@@ -20,3 +20,6 @@
 - https://learn.saylor.org/course/CS401
 - https://quip.com/ubNmAMnGbFGO --- Salesforce Dev Admin Roadmap
 - https://www.reddit.com/r/devops/comments/13cih85/how_to_become_devops_engineer_from_scratch/?rdt=45672 
+- https://www.freecodecamp.org/news/freecodecamp-certifications/
+- https://projecteuler.net/
+- https://rosettacode.org/
