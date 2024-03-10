@@ -24,3 +24,4 @@
 - https://projecteuler.net/
 - https://rosettacode.org/
 - https://www.codementor.io/projects
+- https://applieddigitalskills.withgoogle.com/s/en/home
