@@ -25,3 +25,7 @@
 - https://rosettacode.org/
 - https://www.codementor.io/projects
 - https://applieddigitalskills.withgoogle.com/s/en/home
+- https://learn.saylor.org/course/view.php?id=731
+- https://aws.amazon.com/developer/?nc2=h_mo
+- https://www.codementor.io/@johnselawsky/20-amazing-java-project-ideas-that-will-boost-your-programming-career-1b0mdzzkgm
+- https://www.youtube.com/playlist?list=PL78RhpUUKSweClRi_l05UgfE3053-zkRf
