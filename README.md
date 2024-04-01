@@ -29,3 +29,5 @@
 - https://aws.amazon.com/developer/?nc2=h_mo
 - https://www.codementor.io/@johnselawsky/20-amazing-java-project-ideas-that-will-boost-your-programming-career-1b0mdzzkgm
 - https://www.youtube.com/playlist?list=PL78RhpUUKSweClRi_l05UgfE3053-zkRf
+- https://www.honeypot.io/
+  
