@@ -1,4 +1,4 @@
-# Important-Links
+# My curated collection of links 🥴
 
 - https://www.sololearn.com/learn/courses/coding-foundations
 - https://www.coursera.org/learn/foundations-user-experience-design
