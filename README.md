@@ -1,4 +1,3 @@
-# My curated collection of links 🥴
 
 - https://www.sololearn.com/learn/courses/coding-foundations
 - https://www.coursera.org/learn/foundations-user-experience-design
@@ -17,6 +16,7 @@
 - https://mylearn.oracle.com/ou/learning-path/java-explorer/79726
 - https://mylearn.oracle.com/ou/learning-path/mysql-explorer/79674
 - https://io.google/2023/program/?q=workshop,codelab,learning-pathway,demo
+- https://www.enjoyalgorithms.com/
 - https://learn.saylor.org/course/CS401
 - https://quip.com/ubNmAMnGbFGO --- Salesforce Dev Admin Roadmap
 - https://www.reddit.com/r/devops/comments/13cih85/how_to_become_devops_engineer_from_scratch/?rdt=45672 
