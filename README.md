@@ -30,4 +30,6 @@
 - https://www.codementor.io/@johnselawsky/20-amazing-java-project-ideas-that-will-boost-your-programming-career-1b0mdzzkgm
 - https://www.youtube.com/playlist?list=PL78RhpUUKSweClRi_l05UgfE3053-zkRf
 - https://www.honeypot.io/
+- https://www.reddit.com/r/gamedev/comments/18ycuf1/beginner_megathread_how_to_get_started_which/
+- https://www.youtube.com/playlist?list=PLfw_nI4u_6WM8200HlderALoIYKpSa4W6 (https://www.udemy.com/course/qa-from-scratch-your-journey-to-manual-testing/)
   
