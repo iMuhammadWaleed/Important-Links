@@ -1,4 +1,3 @@
-
 - https://www.sololearn.com/learn/courses/coding-foundations
 - https://www.coursera.org/learn/foundations-user-experience-design
 - https://developer.android.com/courses
@@ -32,4 +31,7 @@
 - https://www.honeypot.io/
 - https://www.reddit.com/r/gamedev/comments/18ycuf1/beginner_megathread_how_to_get_started_which/
 - https://www.youtube.com/playlist?list=PLfw_nI4u_6WM8200HlderALoIYKpSa4W6 (https://www.udemy.com/course/qa-from-scratch-your-journey-to-manual-testing/)
+- https://codeinplace.stanford.edu/
+- https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python
+- https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computational-thinking-and-data-science
   
