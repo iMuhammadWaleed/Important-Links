@@ -1,3 +1,7 @@
+- https://www.quora.com/What-skills-are-required-to-make-a-social-networking-site-and-app-from-scratch
+- https://www.reddit.com/r/freelanceWriters/wiki/index/
+- https://apmlist.com/
+- https://youtu.be/DDuw7oHp95I?si=CJSr2SrqieDf5Heu
 - https://www.reddit.com/r/nocode/comments/1ac3w4j/the_best_and_easiest_nocode_app_builder_for_noob/
 - https://www.sololearn.com/learn/courses/coding-foundations
 - https://www.coursera.org/learn/foundations-user-experience-design
