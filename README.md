@@ -1,3 +1,4 @@
+- https://www.privacyguides.org/en/tools/
 - https://www.futuretools.io/
 - https://www.quora.com/What-skills-are-required-to-make-a-social-networking-site-and-app-from-scratch
 - https://www.reddit.com/r/freelanceWriters/wiki/index/
