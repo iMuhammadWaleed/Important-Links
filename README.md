@@ -1,3 +1,6 @@
+- https://www.reddit.com/r/deepweb/wiki/faq/
+- https://www.reddit.com/r/deepweb/wiki/index/
+- https://www.reddit.com/r/darknet/wiki/index/
 - https://www.reddit.com/r/deepweb/comments/ndf6ix/hey_im_a_beginner_to_this_deep_web_stuff_ive_only/?chainedPosts=t3_nn8na1
 - https://www.reddit.com/r/hacking/wiki/index/
 - https://old.reddit.com/r/onions/wiki/index
