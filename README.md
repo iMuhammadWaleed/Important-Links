@@ -1,3 +1,5 @@
+- https://wallhabit.com/
+- https://www.reddit.com/r/SideProject/
 - http://www.codedex.io/
 - https://www.privacyguides.org/en/tools/
 - https://www.futuretools.io/
