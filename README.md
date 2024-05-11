@@ -1,3 +1,4 @@
+- https://www.reddit.com/r/hacking/
 - https://old.reddit.com/r/onions/wiki/index
 - https://wallhabit.com/
 - https://www.reddit.com/r/SideProject/
