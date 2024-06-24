@@ -1,3 +1,7 @@
+- https://www.talent.io/
+- https://www.jobbatical.com/
+- https://www.honeypot.io/
+- https://remoteok.com/
 - https://www.hireplanner.com/en/blog/job-board-listing-top-job-sites-resources-to-find-jobs-career-opportunities-in-japan
 - https://www.tokyodev.com/
 - https://www.reddit.com/r/deepweb/wiki/faq/
@@ -46,7 +50,6 @@
 - https://aws.amazon.com/developer/?nc2=h_mo
 - https://www.codementor.io/@johnselawsky/20-amazing-java-project-ideas-that-will-boost-your-programming-career-1b0mdzzkgm
 - https://www.youtube.com/playlist?list=PL78RhpUUKSweClRi_l05UgfE3053-zkRf
-- https://www.honeypot.io/
 - https://www.reddit.com/r/gamedev/comments/18ycuf1/beginner_megathread_how_to_get_started_which/
 - https://www.youtube.com/playlist?list=PLfw_nI4u_6WM8200HlderALoIYKpSa4W6 (https://www.udemy.com/course/qa-from-scratch-your-journey-to-manual-testing/)
 - https://codeinplace.stanford.edu/
