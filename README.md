@@ -1,3 +1,4 @@
+- https://www.hireplanner.com/en/blog/job-board-listing-top-job-sites-resources-to-find-jobs-career-opportunities-in-japan
 - https://www.tokyodev.com/
 - https://www.reddit.com/r/deepweb/wiki/faq/
 - https://www.reddit.com/r/deepweb/wiki/index/
